@@ -1,9 +1,9 @@
 '''
 Neural Network Deep Learning
 ICP 3
-author: Vamshi Krishna Rapolu
-student ID: 700742210
-email: vxr22100@ucmo.edu
+author: Bharath Karingula    
+student ID: 700745611
+email: bxk56110@ucmo.edu
 
 2. Numpy
 Using NumPy create random vector of size 20 having only float in the range 1-20.
