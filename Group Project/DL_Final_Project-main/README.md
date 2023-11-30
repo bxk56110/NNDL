@@ -2,6 +2,6 @@
 
 # SKIN DISEASES DETECTION USING DEEP LEARNING
 
-## Vamshi Krishna Rapolu
+## Bharath karingula
 
-700742210
+700745611
